@@ -50,12 +50,12 @@ I'm always looking to expand my skill set and learn new technologies, so if you 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&theme=dark&card_width=500"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&card_width=500"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&card_width=500" />
 </picture>
