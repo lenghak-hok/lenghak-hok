@@ -40,7 +40,8 @@ I'm always looking to expand my skill set and learn new technologies, so if you 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.svg" title="Prisma" alt="Prisma" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/drizzle-team/drizzle-orm-docs/blob/master/public/svg/drizzle.svg" title="Drizzle" alt="Drizzle" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/pnpm/pnpm.io/blob/main/static/img/logos/pnpm-standard-no-text.svg" title="Drizzle" alt="Drizzle" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/pnpm/pnpm.io/blob/main/static/img/logos/pnpm-standard-no-text.svg" title="PNPM" alt="PNPM" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/colinhacks/zod/blob/master/logo.svg" title="Zod" alt="Zod" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
