@@ -48,7 +48,7 @@ I'm always looking to expand my skill set and learn new technologies, so if you 
 
 ## Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lenghak&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 <picture>
   <source
