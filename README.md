@@ -27,7 +27,7 @@ I'm always looking to expand my skill set and learn new technologies, so if you 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" title="Vite" alt="Vite" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
