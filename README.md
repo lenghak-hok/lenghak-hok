@@ -3,7 +3,7 @@ Lenghak/Lenghak is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Welcome
+# Welcome
 
 I'm Lenghak, a software engineer with a passion for building and learning new things. I'm always looking to connect with like-minded individuals and collaborate on new projects. If you have any questions or would like to get in touch, please don't hesitate to reach out. You can find my contact information below.
 
@@ -22,7 +22,7 @@ I'm Lenghak, a software engineer with a passion for building and learning new th
   </a>
 </div>
 
-## Technologies
+# Technologies
 I'm always looking to expand my skill set and learn new technologies, so if you have any questions or would like to discuss a project, feel free to reach out!
 
 <div>
@@ -46,7 +46,7 @@ I'm always looking to expand my skill set and learn new technologies, so if you 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## Github Streak
+# Github Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
@@ -61,3 +61,6 @@ I'm always looking to expand my skill set and learn new technologies, so if you 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&card_width=500" />
 </picture>
+
+# Outroduction
+I'm always looking for new opportunities to collaborate with other developers and work on exciting projects. If you're looking for a dedicated and passionate team player, feel free to reach out to me!
