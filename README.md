@@ -23,8 +23,7 @@ I'm Lenghak, a software engineer with a passion for building and learning new th
 </div>
 
 # Technologies
-I'm always looking to expand my skill set and learn new technologies, so if you have any questions or would like to discuss a project, feel free to reach out!
-
+I'm always looking to expand my skill set and learn new technologies. These are my workbench and tools that I have been using in my projects so far, and I am still striving for more.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="32" height="32" />&nbsp;&nbsp;&nbsp;&nbsp;
