@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome
 
-I'm Lenghak, a software engineer with a passion for building and learning new things. I'm always looking to connect with like-minded individuals and collaborate on new projects. If you have any questions or would like to get in touch, please don't hesitate to reach out. You can find my contact information below.
+Greetings, I am Lenghak, a skilled software engineer who thrives on creating innovative solutions and expanding my knowledge. I am eager to connect with fellow enthusiasts and work together on exciting endeavours. Should you require any assistance or wish to communicate, please feel free to contact me using the information provided below.
 
 <div id="badges">
  <a href="https://www.linkedin.com/in/lenghak-hok-7a5a11265/">
