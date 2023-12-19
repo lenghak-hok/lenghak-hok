@@ -47,7 +47,20 @@ I'm always looking to expand my skill set and learn new technologies. These are 
 
 # Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=Lenghak" />
+</picture>
+
+<br/>
+<br/>
 
 <picture>
   <source
@@ -60,6 +73,23 @@ I'm always looking to expand my skill set and learn new technologies. These are 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&card_width=500" />
 </picture>
+
+<br/>
+<br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenghak&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenghak&size_weight=0.5&count_weight=0.5&layout=donut&border_radius=4&date_format=j%20M%5B%20Y%5D"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenghak" />
+</picture>
+
+
 
 # Outroduction
 I'm always looking for new opportunities to collaborate with other developers and work on exciting projects. If you're looking for a dedicated and passionate team player, feel free to reach out to me!
