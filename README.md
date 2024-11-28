@@ -2,7 +2,7 @@
 Lenghak/Lenghak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+[![](https://visitcount.itsvg.in/api?id=lenghak&label=Visit&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 # Welcome
 
 Greetings, I am **_Lenghak_**, an continously learning software engineer who thrives on creating innovative solutions and expanding knowledges.
