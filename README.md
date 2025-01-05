@@ -59,8 +59,6 @@ These are some technologies that I have enthusiastic on learning or planning to 
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
 ## Github Streak
 
 ![Github Streak](https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500)
