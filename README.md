@@ -18,11 +18,7 @@ Should you require any assistance or wish to communicate, please feel free to co
 
 ## Technologies
 
-I'm always looking to expand my skill set and learn new technologies. These are my workbench and tools that I have been using in my projects so far, and I am still striving for more.
-
 ### Actively Contributing
-
-These are some programming laguages or tools that I have been using in my work or projects
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,8 +38,6 @@ These are some programming laguages or tools that I have been using in my work o
 
 ### Used or Inactive
 
-In section indicating that these are some of the programming laguages or tools that I have used in my projects as well, but not actively involving with in the recent time.
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 &nbsp;![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 &nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,8 +48,6 @@ In section indicating that these are some of the programming laguages or tools t
 &nbsp;![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 
 ### Learning
-
-These are some technologies that I have enthusiastic on learning or planning to learn.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
