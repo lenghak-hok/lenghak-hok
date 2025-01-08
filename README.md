@@ -53,8 +53,6 @@ Should you require any assistance or wish to communicate, please feel free to co
 
 ## Github Streak
 
-![Github Streak](https://streak-stats.demolab.com?user=Lenghak&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lenghak&show_icons=true&theme=dark&card_width=500)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenghak&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&hide=css,scss)
