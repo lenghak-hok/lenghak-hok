@@ -19,7 +19,7 @@ jobs:
   generate:
     permissions: 
       contents: write
-    runs-on: ubuntu-latest
+    runs-on: alpine-latest
     timeout-minutes: 5
     
     steps:
