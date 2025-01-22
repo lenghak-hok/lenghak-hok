@@ -3,6 +3,16 @@
 <br clear="both">
 
 <div align="center">
+  <a href="https://app.daily.dev/lenghak_dev"><img src="https://api.daily.dev/devcards/v2/25qVKRrvpbLDzb3KO1nEQ.png?type=default&r=ae1" width="356" alt="Lenghak Hok's Dev Card"/></a>
+</div>
+
+###
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/lenghak-hok-7a5a11265/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
