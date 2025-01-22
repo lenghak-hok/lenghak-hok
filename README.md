@@ -27,7 +27,11 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"  />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Snake" src="https://github.com/Lenghak/Lenghak/blob/output/github-contribution-grid-snake.svg">
+  </picture>
   <img width="12" />
 </div>
 
